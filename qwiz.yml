@@ -1,6 +1,18 @@
 -
-    title: "Who Plays Which HIMYM Character?"
-    description: "you're shown a character's name and you have to pick which of two actors is the one who plays them"
-    file: "people.csv"
-    front: "character"
-    back: "actor"
+    title: "Atomic Numbers of Elements"
+    description: "shown an element name, pick its atomic number"
+    file: "chemical_elements.csv"
+    front: "Name"
+    back: "Atomic no."
+-
+    title: "State of Element at STP"
+    description: "shown an element name, pick what state it's in at STP"
+    file: "chemical_elements.csv"
+    front: "Name"
+    back: "State at STP"
+-
+    title: "Element Symbols"
+    description: "shown an element's symbol, pick its name"
+    file: "chemical_elements.csv"
+    front: "Symbol"
+    back: "Name"
