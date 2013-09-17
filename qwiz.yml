@@ -16,3 +16,9 @@
     file: "chemical_elements.csv"
     front: "Symbol"
     back: "Name"
+-
+    title: "Element Types"
+    description: "shown an element name, pick what type of element it is"
+    file: "chemical_elements.csv"
+    front: "Name"
+    back: "Description"
